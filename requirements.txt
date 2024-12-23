@@ -1,0 +1,9 @@
+pip~=23.2.1
+wheel~=0.41.2
+cryptography~=43.0.3
+tornado~=6.4.1
+setuptools~=68.2.0
+future~=1.0.0
+yt-dlp~=2024.11.6.232826.dev0
+requests~=2.32.3
+aiogram~=2.25.2
